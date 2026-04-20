@@ -6,7 +6,7 @@ This project investigates **multiview camera to point cloud reconstruction** usi
 
 The work is motivated by the need for dense spatial perception in robotics, autonomous systems, intelligent transportation, and scene understanding. Instead of relying only on active range sensors, this project explores how **multiview image-based depth estimation** can be used to generate geometrically meaningful 3D structure from passive visual sensing.
 
-<img width="540" height="303" alt="image" src="https://github.com/user-attachments/assets/b5f73dc2-2e24-407b-8c34-2a92b0679e4e" />
+![Multi_view-pointcloud](multi-view.gif)
 
 
 ## Research Context
